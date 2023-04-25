@@ -1,0 +1,14 @@
+<html>
+ <head>
+  
+  <title>Division</title>
+  <script>
+			 var a = 333
+			 var result=(a%33==0)?"is divisible by 33":"is not divisible by 33"
+			document.write(result)
+  </script>
+ </head>
+ <body>
+ 
+ </body>
+</html>

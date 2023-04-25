@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <script src="bookproject.js"></script>
+ </head>
+ <body>
+ <center><input type="button" value="Table" onclick="Table6()"></center>
+ </body>
+</html>

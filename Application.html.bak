@@ -1,0 +1,58 @@
+<html>
+ 
+ <head>
+ 
+ <title>Application</title>
+ 
+ </head>
+ 
+ <body>
+ 
+ <center>
+ 
+ <form>
+
+<label> Enter Full Name</label>
+ <input type="text" placeholder="Full Name"></input>
+ <br></br>
+
+<label>Enter Password </label>
+ <input type="password" placeholder="password"></input>
+ <br></br>
+
+
+ <label>Enter Email Id</label>
+ <input type="text" placeholder="Email Id"></input>
+ <br></br>
+
+  <label>Enter Mobile Number</label>
+ <input type="number" placeholder="Mobile Number"></input>
+ <br></br>
+
+<label>Enter DOB</label>
+<input type="date" placeholder="DOB"></input>
+<br></br>
+
+</center>
+
+Which is your favourite subject in Jspiders ?
+
+<br></br>
+
+<input type="radio">SQL</input><br>
+<input type="radio">Core Java</input><br>
+<input type="radio">Web Technology</input><br>
+<input type="radio">Java Programming</input><br>
+<input type="radio">Advance Java</input><br>
+<input type="radio">Aptitide</input><br>
+
+</br>
+
+ <input style="background-color:cyan;"type="submit" value="REGISTER"></input>
+ <input style="background-color:red;"type="reset" value="CLEAR"></input>
+ 
+</form>
+
+</body>
+
+</html>
